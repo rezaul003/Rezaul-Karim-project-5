@@ -1,0 +1,57 @@
+.sec1{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: green;
+	float: left;
+}
+.sec2{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: red;
+	float: left;
+}
+.sec3{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+	float: left;
+}
+.sec4{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+}
+
+.sec5{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: skyblue;
+	float: left;
+}
+.sec6{
+	font-size: 63px;
+	color: black;
+	width: 50%;
+	height: 200px;
+	background-color: purple;
+	float: left;
+}
+
+
+
+
+.video{
+	width: 50%;
+	height: 420px;
+}
